@@ -1,0 +1,12 @@
+name: moth_dashboard
+title: moth_dashboard
+username:
+account: moth
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 380087
+bundleId: 1478387
+url: https://moth.shinyapps.io/moth_dashboard/
+when: 1531451871.55896
+asMultiple: FALSE
+asStatic: FALSE
