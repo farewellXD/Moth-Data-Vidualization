@@ -1,5 +1,7 @@
 Moth Data Vidualization
 
+dashboard link: https://moth.shinyapps.io/moth_dashboard/
+
 ![image](https://github.com/farewellXD/Moth-Data-Vidualization/blob/master/dashboard_demo.JPG?raw=true)
 
 為利用shinydashboard package嘗試架設即時監看面板
